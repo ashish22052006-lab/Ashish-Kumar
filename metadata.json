@@ -1,0 +1,6 @@
+{
+  "name": "JEE Tracker Pro",
+  "description": "Premium JEE study planner, countdown timer, syllabus tracker, mock analyzer, and AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
